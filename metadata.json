@@ -2,5 +2,7 @@
   "name": "WaterMate",
   "description": "Shared water can ordering, cost splitting, and payment management app for roommates.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
